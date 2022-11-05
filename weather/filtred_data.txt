@@ -1,0 +1,16 @@
+id,rok,miesiac,nazwa_zmiennych,dzien1,dzien2,dzien3,dzien4,dzien5,dzien6,dzien7,dzien8,dzien9,dzien10,dzien11,dzien12,dzien13,dzien14,dzien15,dzien16,dzien17,dzien18,dzien19,dzien20,dzien21,dzien22,dzien23,dzien24,dzien25,dzien26,dzien27,dzien28,dzien29,dzien30,dzien31
+MX000017004,2010,01,TMAX,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,278,inf
+MX000017004,2010,01,TMIN,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,145,inf
+MX000017004,2010,01,PRCP,inf,inf,inf,inf,0,inf,0,inf,inf,inf,inf,0,inf,0,0,inf,inf,0,0,0,0,0,0,inf,0,0,0,0,0,0,inf
+MX000017004,2010,02,TMAX,inf,273,241,inf,inf,inf,inf,inf,inf,inf,297,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,299,inf,inf,inf,inf,inf,inf,inf,inf
+MX000017004,2010,02,TMIN,inf,144,144,inf,inf,inf,inf,inf,inf,inf,134,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,107,inf,inf,inf,inf,inf,inf,inf,inf
+MX000017004,2010,02,PRCP,inf,0,0,inf,inf,0,0,inf,0,inf,0,inf,0,inf,inf,inf,inf,inf,inf,0,inf,inf,0,inf,0,inf,inf,inf,inf,inf,inf
+MX000017004,2010,03,TMAX,inf,inf,inf,inf,321,inf,inf,inf,inf,345,inf,inf,inf,inf,inf,311,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MX000017004,2010,03,TMIN,inf,inf,inf,inf,142,inf,inf,inf,inf,168,inf,inf,inf,inf,inf,176,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MX000017004,2010,03,PRCP,inf,0,inf,0,0,0,inf,inf,0,0,0,0,0,inf,inf,0,0,inf,0,0,inf,inf,0,inf,inf,0,0,inf,inf,0,inf
+MX000017004,2010,04,TMAX,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,363,inf,inf,inf,inf
+MX000017004,2010,04,TMIN,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,167,inf,inf,inf,inf
+MX000017004,2010,04,PRCP,0,inf,0,inf,inf,0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,0,inf,inf,0,inf
+MX000017004,2010,05,TMAX,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,332,inf,inf,inf,inf
+MX000017004,2010,05,TMIN,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,182,inf,inf,inf,inf
+MX000017004,2010,05,PRCP,inf,inf,inf,0,inf,0,inf,0,inf,inf,0,inf,0,inf,inf,inf,inf,0,inf,0,inf,inf,inf,inf,inf,inf,0,inf,25,0,inf
